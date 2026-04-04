@@ -27,7 +27,7 @@ export function TermsDialog({ open, onAccept, viewOnly, onClose }: TermsDialogPr
           <AlertDialogDescription asChild>
             <ScrollArea className="h-64 pr-4 text-sm leading-relaxed text-muted-foreground">
               <div className="space-y-3">
-                <p className="font-semibold text-foreground">Bem-vindo ao NomeCriativo!</p>
+                <p className="font-semibold text-foreground"><p className="font-semibold text-foreground">Bem-vindo ao B3Names!</p></p>
                 <p>Ao utilizar este aplicativo, você concorda com os seguintes termos:</p>
                 <p><strong>1. Uso do Serviço</strong><br />Este app gera sugestões de nomes criativos com base em algoritmos. Os nomes gerados são sugestões e não garantimos exclusividade ou disponibilidade para registro.</p>
                 <p><strong>2. Anúncios</strong><br />Este aplicativo exibe anúncios para manter o serviço gratuito. Ao aceitar estes termos, você concorda com a exibição de anúncios durante o uso do app.</p>

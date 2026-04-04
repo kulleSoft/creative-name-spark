@@ -77,7 +77,7 @@ export function SettingsPage({
         </Button>
       </div>
 
-      <p className="pb-4 text-center text-[10px] text-muted-foreground">NomeCriativo v1.0 • Feito com ❤️</p>
+      <p className="pb-4 text-center text-[10px] text-muted-foreground"><p className="pb-4 text-center text-[10px] text-muted-foreground">B3Names v1.0 • Feito com ❤️</p></p>
     </div>
   );
 }

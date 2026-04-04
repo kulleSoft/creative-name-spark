@@ -48,7 +48,7 @@ export function GeneratorPage({ onAddToHistory, onToggleFavorite, history }: Gen
     <div className="space-y-5 px-4 pt-4 safe-bottom">
       <div>
         <h1 className="text-2xl font-extrabold text-foreground">
-          <span className="text-gradient">NomeCriativo</span>
+          <span className="text-gradient">B3Names</span>
         </h1>
         <p className="mt-1 text-sm text-muted-foreground">Gere nomes incríveis em segundos</p>
       </div>
